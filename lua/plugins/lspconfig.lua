@@ -25,6 +25,7 @@ return {
             require("mason").setup({
                 ensure_installed = {
                     "lua-language-server",
+                    "markdown-oxide",
                     "pyright",
                     "vim-language-server"
                 },
